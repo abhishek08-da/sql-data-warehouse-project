@@ -68,7 +68,9 @@ data-warehouse-project/
 ├── datasets/                           # Raw ERP & CRM CSV datasets
 │
 ├── docs/                               # Architecture & documentation
-│   ├──  ....
+│   ├── data_flow.image.jpeg
+│   ├──data_integration.image.jpeg
+│   └──data_model.image.jpeg
 │
 ├── scripts/                            # SQL scripts
 │   ├── bronze/                         # Raw data ingestion scripts
