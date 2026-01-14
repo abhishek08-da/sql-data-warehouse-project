@@ -62,6 +62,7 @@ The project includes:
 - Analytical Data Modeling
 
 📂 Repository Structure
+```text 
 data-warehouse-project/
 │
 ├── datasets/                           # Raw ERP & CRM CSV datasets
@@ -78,7 +79,7 @@ data-warehouse-project/
 │
 ├── README.md                           # Project overview
 └── LICENSE
-
+```
 
 ## 🌟 About Me
 
