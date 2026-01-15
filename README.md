@@ -1,7 +1,7 @@
 📊 Data Warehouse and Analytics Project (PostgreSQL)
 
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
-This project demonstrates an end-to-end data warehousing and analytics solution using PostgreSQL, following modern data engineering best practices.
+This project demonstrates an end-to-end data warehousing and analytics solution using PostgreSQL.
 It is designed as a portfolio project to showcase skills in data analytics, SQL development, and dimensional modeling.
 
 🏗️ Data Architecture
